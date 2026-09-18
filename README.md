@@ -1,4 +1,4 @@
-```
+[```
 # ⚡ Somtocode Dotfiles | Arch Linux + KDE Plasma Development Setup
 
 Welcome to my official dotfiles repository! This is my daily-driver setup running **Arch Linux** with **KDE Plasma**, tailored for full-stack web development (Python &amp; JavaScript) and a clean, aesthetic desktop workflow [1, 2].
@@ -47,7 +47,7 @@ stc-dotfiles/
 
 ```
 
----
+---](https://notebook.google.com/notebook/05bf9251-07d0-431d-8afa-77d4846c7ddc)
 
 ## 🚀 Installation &amp; Setup
 
