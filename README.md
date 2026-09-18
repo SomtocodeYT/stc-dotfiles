@@ -9,7 +9,7 @@ Welcome to my official dotfiles repository! This is my daily-driver setup runnin
 
 ## 🖼️ Desktop Preview
 
-![Desktop Screenshot](./storm.jpg)
+![Desktop Screenshot](./storm_back.png)
 
 ---
 
